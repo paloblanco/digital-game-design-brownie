@@ -21,9 +21,9 @@ Games can bring us together and help us to have fun, but that's not all they can
 *Phylo* is a game made by researchers at McGill University. It is a fun puzzle game, but it also helps researchers collect data on our DNA to help cure diseases.
 ![Phylo](assets/phylo.png)
 
-#### Games about being safe online
-The United States Government uses digital games too! If you work for the US military, you will probably play games that help teach you about protecting important information about keeping information safe.
-![CyberChallenge](assets/gov_cyber_challenge.png)
+#### Games to learn languages
+Duolingo is a popular computer program and phone app for learning new languages, like Spanish or Italian. The creators of Duolingo have said that they like video games, and they used mechanics from video games like "rewards, challenges, and leveling-up" to help people enjoy learning a language!
+![Duolingo](assets/duolingo.png)
 
 ### 2. What kinds of tools are used to develop video games?
 
@@ -38,10 +38,21 @@ Games need lots of other things too! **Artists** will draw backgrounds and use s
 
 PICTURES OF THESE THINGS
 
-### 3. Plan your own game!
+### 3. Activity Time!
 
-### 4. Make your game better by testing and iterating.
+In both of these activities, we will be following the game design process:
+![Game Design Process](assets/designprocess.png)
 
-### 5. Share your game!
+In this process, we start by doing creative work - asking ourselves questions, imagining what could be, and then creating it! This can be done alone or in a team.
+
+Next, we **collaborate** - we share our work, understand what someone liked and didn't like, and then adjust our original ideas. After going through this loop - share, adjust, share, adjust - we have a great game to share!
+
+#### Activity 1: Design your own game
+
+WORKSHEET FOR FIRST GAME
+
+#### Activity 2: Make a game level for your friend to play
+
+Get into small groups (2-4 scouts) and take turns playing "Girl Scout Cat Rescue!". One girl should spend a few minutes designing a maze, then the next girl should try to get through the maze and get to the cat. Then, switch! Have someone else try to design a level!
 
 <iframe src="girlscout.html" title="Girl Scout Game"></iframe>
