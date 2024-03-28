@@ -405,7 +405,7 @@ function init_map()
 	box    = {}
 	box.x  = 25
 	box.y  = 14
-	box.id = 1
+	box.id = 21
 	
 	_update60 = update_map
 	_draw = draw_map

@@ -1,8 +1,8 @@
 ![banner](assets/girlbanner.png)
 
 # Digital Game Design
-![badge](assets/digitalgamedesignbadge.png)
 ## An activity for badge 2 in the "Coding for Good" series for Brownies
+![badge](assets/digitalgamedesignbadge.png)
 
 ### Have you ever wondered how video games are made?
 They are made by girls like you! It takes lots of different skill sets and people to make a digital game:
@@ -51,7 +51,21 @@ Next, we **collaborate** - we share our work, understand what someone liked and 
 
 #### Activity 1: Design your own game
 
-WORKSHEET FOR FIRST GAME
+**Game Designers** start designing a game with paper and art supplies! A great way to get started is to draw and write down your ideas for a game, then show them to you friends and get feedback!
+
+We are going to build a **game design document** so we can share our ideas with our friends!
+
+![Game Design Document](assets/design_doc_pic.png)
+
+High quality version for printing: [Game Design Document](assets/worksheet_game_design_brownie.pdf)
+
+##### Instructions:
+1. Each participant should get their own copy of the Game Design Document. Spend a few minutes and draw some ideas for your game!
+    a. Draw a picture of what it might look like.
+    b. Give it a name.
+    c. Describe what you might do in this game. Be as creative as you want! Don't be afraid to be inspired by your favorite books, movies, or other video games!
+2. After designing your game, let some of your friends look at your paper!
+    a. When you are looking at your friend's game, write down 1 thing you like, and 1 thing you think would be fun to add!
 
 #### Activity 2: Make a game level for your friend to play
 
