@@ -13,6 +13,11 @@ function _init()
 	
 	scout_ix_list = {1,3,33}
 	scout_ix = rnd(scout_ix_list)
+	poke(0x5f55,0x00)
+	palt(0,false)
+	spr(scout_ix,5*8,8)
+	palt()
+	poke(0x5f55,0x60)
 	cls(0)
 	
 	camx=0
@@ -142,8 +147,10 @@ function check_girl_choice()
 	
 	if (not btnp(5)) return
 	poke(0x5f55,0x00)
+	palt(0,false)
 	scout_ix=choice
 	spr(choice,5*8,8)
+	palt()
 	poke(0x5f55,0x60)
 end
 

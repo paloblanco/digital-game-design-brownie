@@ -1,3 +1,5 @@
+![banner](assets/girlbanner.png)
+
 # Digital Game Design
 ![badge](assets/digitalgamedesignbadge.png)
 ## An activity for badge 2 in the "Coding for Good" series for Brownies
