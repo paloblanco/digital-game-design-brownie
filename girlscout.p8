@@ -90,6 +90,18 @@ function update_play()
 	if (btn(2)) dy = -speed*diag
 	if (btn(3)) dy = speed*diag
 	
+	-- overwrite dx dy with mouse
+	if mousey < 13*8 and btn(5) then
+		ang = atan2(mousex-p1.x-4,mousey-p1.y-4)
+		
+		dx = speed*cos(ang)
+		dy = speed*sin(ang)
+			
+		if (dx > 0) faceleft=false
+		if (dx < 0) faceleft=true
+		moving=true
+	end
+	
 	p1.x += dx
 	p1.y += dy
 	
