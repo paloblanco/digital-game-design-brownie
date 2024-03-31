@@ -1,14 +1,17 @@
-![banner](assets/girlbanner.png)
+@import "my-style.less"
+
+![banner](assets/scoutbanner.png)
 
 # Digital Game Design
 ## An activity for badge 2 in the "Coding for Good" series for Brownies
+
 ![badge](assets/digitalgamedesignbadge.png)
 
 ### Have you ever wondered how video games are made?
 They are made by girls like you! It takes lots of different skill sets and people to make a digital game:
 - **Programmers** tell a computer what to do by writing very specific instructions, called *code*, into a computer. Code is sort of like a recipe - computer know how to follow these instructions very closely.
     - How do computers know how to understand code? Grace Hopper was a pioneer in programming computers, and she helped build tools called *compilers* for the US Navy to let computers understand code.
-    - ![Grace Hopper](assets/grace.png)
+![Grace Hopper](assets/grace.png)
     - Today, programmers like Katie Bouman use code to help us do things we have never done before, like take pictures of black holes!
     - ![Katie Bouman](assets/katiebouman.png)
 - Games aren't just code, though. It takes artists, musicians, and game designers to make games come to life!
@@ -33,12 +36,14 @@ Lots of different tools are used to make digital games!
 
 **Computers** are used to make the *code* for a game. A *programmer* tells the computer how characters will behave, what happens when someone pushes buttons, and how you win or lose.
 
-PICTURE OF COMPUTER AND PROGRAM
-USE CODE FROM THIS GAME!
+![Code and bumping](assets/code_cat.png)
+*Example of code that decides the game's rules*
 
 Games need lots of other things too! **Artists** will draw backgrounds and use special computer programs to make models that appear in games. **Musicians** can use computers or their own instruments to make the sounds in games. **Designers** figure out how a game is played - what are the rules, what can you do, and how do you win!
 
-PICTURES OF THESE THINGS
+![Art](assets/game_art.png)
+*Depending on your game, you might draw simple art or make intricate 3D models*
+
 
 ### 3. Activity Time!
 
